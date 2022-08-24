@@ -12,7 +12,7 @@
   },
 
   "engines": {
-    "node": "14.X"
+    "node": "16.7.0"
   },
   "dependencies": {
     "next": "^12.2.2",
